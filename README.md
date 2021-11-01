@@ -6,11 +6,13 @@ _Web version coming soon_
 
 ### Clone repository 
 
-Navigate to code dropdown, then click "Download ZIP"
+Use 1 of 3 methods below to clone repo. 
 
-Github cli: `gh repo clone paul-bokelman/generator`
+- Navigate to code dropdown, then click "Download ZIP"
 
-Git: `https://github.com/paul-bokelman/generator.git`
+- Github cli: `gh repo clone paul-bokelman/generator`
+
+- Git: `https://github.com/paul-bokelman/generator.git`
 
 ### Install dependencies
 
